@@ -14,13 +14,13 @@ The workflow is built entirely in Make.com and integrates multiple services to s
 
 ## Features
 
-- 📥 Watches incoming Gmail messages
-- 🤖 Uses OpenAI GPT for email understanding
-- ✍️ Generates personalized draft replies
-- 📊 Stores candidate information in Google Sheets
-- 🔀 Routes candidates based on workflow logic
-- 💬 Sends Slack notifications
-- ⚡ Fully automated process
+-  Watches incoming Gmail messages
+-  Uses OpenAI GPT for email understanding
+-  Generates personalized draft replies
+-  Stores candidate information in Google Sheets
+-  Routes candidates based on workflow logic
+-  Sends Slack notifications
+-  Fully automated process
 
 ---
 
